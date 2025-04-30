@@ -102,5 +102,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "name": "MUTECOIN",
+    "symbol": "MUTE",
+    "address": "0x74054EF192f703C810792B19ed11b19eb46243c4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/WooKID09/mutecoin-site/main/favicon.png"
   }
 ]
